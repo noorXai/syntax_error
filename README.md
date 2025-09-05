@@ -16,9 +16,6 @@ syntax_error.py
 
 ---
 
-## 🖥️ How to Run
-
-
 ## 📚 How to Run  
 
 1. **Clone this repo:**  
@@ -28,7 +25,6 @@ syntax_error.py
 2. **Run the file:**
    ```bash
    python syntax_error.py
-
 
 ## 🌸 About
 Created by noorXai ✨
