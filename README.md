@@ -19,19 +19,19 @@ syntax_error.py
 # 🖥️ How to Run
 Clone the repo:
 
-'''bash
+```bash
 Copy code
 git clone https://github.com/noorXai/syntax-error.git
 Run the file:
 
-'''bash
+```bash
 Copy code
 python syntax_error.py
 
 ---
 
 
-🌸 About
+# 🌸 About
 Created by noorXai ✨
 This project is proof that even the simplest code can make people smile 💻🌷
 
