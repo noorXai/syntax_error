@@ -20,7 +20,7 @@ syntax_error.py
 
 1. **Clone this repo:**  
    ```bash
-   git clone https://github.com/NoorXai/syntax-error.git
+   git clone https://github.com/noorXai/syntax-error.git
 
 2. **Run the file:**
    ```bash
